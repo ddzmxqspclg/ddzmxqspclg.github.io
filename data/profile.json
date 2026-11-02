@@ -1,0 +1,21 @@
+{
+  "name": "Yanzhou Wang",
+  "chineseName": "王言舟",
+  "university": "Beijing University of Posts and Telecommunications",
+  "universityAbbreviation": "BUPT",
+  "education": "Undergraduate Student",
+  "major": "Internet of Things Engineering",
+  "email": "2686705997@bupt.edu.cn",
+  "githubUsername": "ddzmxqspclg",
+  "interests": [
+    "Artificial Intelligence",
+    "Multimedia Computing",
+    "Semantic Communications",
+    "Computer Vision",
+    "Intelligent Systems"
+  ],
+  "about": [
+    "I am an undergraduate student majoring in Internet of Things Engineering at Beijing University of Posts and Telecommunications (BUPT).",
+    "My research interests include artificial intelligence, multimedia computing, semantic communications, computer vision, and intelligent systems."
+  ]
+}

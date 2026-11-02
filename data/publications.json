@@ -1,0 +1,29 @@
+[
+  {
+    "id": "wang2026network",
+    "type": "Journal Paper",
+    "title": "Network Coding Enhanced Semantic Communications in Internet of Vehicles",
+    "authors": ["Yanzhou Wang", "Jiahang Zhong", "Congduan Li"],
+    "publication": "Applied Sciences",
+    "year": 2026,
+    "volume": "16",
+    "issue": "13",
+    "articleNumber": "6809",
+    "doi": "10.3390/app16136809",
+    "paperUrl": "https://www.mdpi.com/2076-3417/16/13/6809"
+  },
+  {
+    "id": "wang2025disturbance",
+    "type": "Conference Proceedings Paper · Survey",
+    "title": "Disturbance-Rejection Control Strategies and Algorithms for Autonomous Underwater Vehicles and Unmanned Aerial Vehicles: A Cross-Domain Survey",
+    "authors": ["Yanzhou Wang"],
+    "publication": "Applied and Computational Engineering (ACE)",
+    "publisher": "EWA Publishing",
+    "year": 2025,
+    "volume": "218",
+    "pages": "214–220",
+    "published": "2025-12-31",
+    "doi": "10.54254/2755-2721/2026.TJ31032",
+    "paperUrl": "https://ace.ewapub.com/article/view/31032"
+  }
+]
